@@ -28,6 +28,7 @@
               <button type="button" class="btn btn-primary">Save</button>
               <button type="button" class="btn btn-danger">Cancel</button>
             </div>
+          
         </div>
     </div>
     <hr/>
